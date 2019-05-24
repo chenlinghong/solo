@@ -27,7 +27,12 @@
 
 ## 简介
 
-[Solo](https://github.com/b3log/solo) 是一款小而美的开源博客系统，专为程序员设计。Solo 有着非常活跃的[社区](https://hacpai.com)，文章自动推送到社区后可以让很多人看到，产生丰富的交流互动。
+[Solo](https://github.com/b3log/solo) 是一款小而美的开源博客系统，专为程序员设计。
+
+Solo 有着非常活跃的[社区](https://hacpai.com)，可将文章作为帖子推送到社区，来自社区的回帖将作为博客评论进行联动。
+
+> 这是一种全新的网络社区体验，让热爱记录和分享的你不再感到孤单！\
+> 具体细节请浏览 [B3log 构思](https://hacpai.com/article/1546941897596)
 
 ## 案例
 
@@ -39,11 +44,12 @@
 * [liumapp 的个人博客](http://www.liumapp.com)
 * [水星的随笔](https://note.abeffect.com)
 * [1992 社区](https://1992.cool)
-* [何遇](http://littleq.cn)
-* [Relyn](http://relyn.cn)
 * [思干豆](http://sigandou.com)
 * [DevHyxo](https://blog.devhyxo.top)
 * [EchoCow](https://echocow.cn)
+* [贼拉正经的技术博客](http://blog.stackoverflow.wiki)
+* [记录改变生活](https://www.tuhaoxin.cn)
+* [程序员小吴](https://cxyxiaowu.com)
 
 ## 功能
 
